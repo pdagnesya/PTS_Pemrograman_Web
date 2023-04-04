@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+h4{
+    background-color: rgb(170, 191, 210);
+    height: 50px;
+    margin-top: 0;
+    text-align: center;
+}
+.nav{
+    padding-bottom: 4px;
+}
+.statusBus_aktif{
+    background-color: rgb(158, 201, 158);
+}
+.statusBus_cadangan{
+    background-color: rgb(229, 229, 160);
+}
+.statusBus_perbaikan{
+    background-color: rgb(205, 81, 81);
+}
